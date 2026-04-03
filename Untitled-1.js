@@ -38,3 +38,19 @@ while (opcao != 4){
 }
 
 
+Tarefa
+
+CONDICIONAIS E REPETIÇÃO 
+
+Um programa para controle de temperatura em uma estufa
+1-Aumentar a temperatura
+2-Reduzir temperatura
+3-Mostrar Temperatura
+4-Sair(mostrar a temperatura atual + mensagem saída)
+
+Temperatura inicial = 26°c
+Temperatura <15°c Aviso de risco ao usuário
+Temperatura >30°c Aviso de risco ao usuário
+
+
+
